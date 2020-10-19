@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Wie ben ik?
 
-You can use the [editor on GitHub](https://github.com/dsgepers/danaschepeis/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in placerat eros. Suspendisse accumsan viverra pharetra. Suspendisse et sapien gravida, luctus enim at, sodales quam. Nunc ac erat nulla. Aliquam risus dolor, gravida id elit in, dignissim eleifend eros. Ut euismod, purus finibus fringilla dapibus, arcu orci mollis mi, vel rutrum tortor metus sed ipsum. Curabitur sit amet congue eros. Aliquam aliquet mauris eu laoreet fringilla. Sed quis fringilla turpis.  
+  
+Sed iaculis viverra augue ac mollis. Pellentesque semper tellus nec turpis ultricies feugiat. Aliquam malesuada ante semper justo molestie, rutrum vestibulum nunc eleifend. Phasellus tempor eget eros et dapibus. Pellentesque molestie rhoncus mi, et venenatis tortor fringilla sed. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean non porta neque, vitae feugiat dui. Nulla sollicitudin condimentum lacus, ac pulvinar sapien viverra at. Curabitur volutpat accumsan auctor. Vestibulum scelerisque rhoncus ante a feugiat. Curabitur tristique imperdiet lacus, eu imperdiet leo placerat eget. Aliquam erat volutpat. Pellentesque placerat, urna laoreet malesuada interdum, enim libero pulvinar ante, et rutrum lacus magna et massa. Nunc imperdiet porttitor augue non gravida. Ut quis arcu et odio auctor feugiat. Duis maximus dui elit, vitae convallis dui rutrum sit amet.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Contact gegevens
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dsgepers/danaschepeis/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Dana Schepers  
+Straatstraat 1  
+1234AB Schijf  
